@@ -1,2 +1,2 @@
-# my-site
+# about paul
 my personal website
